@@ -1,5 +1,5 @@
 # BFS-SolveMaze
-The maze is a string, rows are separated by space and columns are separated by comma ‘,’. 
+The maze is a string, rows are separated by space and columns are separated by comma ‘,’.
 The board is read row-wise, the nodes are numbered 0-based starting the leftmost node.
 
 create my own board:
