@@ -9,5 +9,7 @@ create my own board:
 
 
 the Main Function for the BFS algorithm print:
+
 1- Full path: represent all visited nodes from the start node to the end node.
+
 2- Path: represent the correct path from the start node to the end node.
